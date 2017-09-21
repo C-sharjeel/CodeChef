@@ -1,0 +1,6 @@
+D:\Data\Techgig\CodeChef\CodeChef\bin\Debug\CodeChef.exe.config
+D:\Data\Techgig\CodeChef\CodeChef\bin\Debug\CodeChef.exe
+D:\Data\Techgig\CodeChef\CodeChef\bin\Debug\CodeChef.pdb
+D:\Data\Techgig\CodeChef\CodeChef\obj\Debug\CodeChef.csprojResolveAssemblyReference.cache
+D:\Data\Techgig\CodeChef\CodeChef\obj\Debug\CodeChef.exe
+D:\Data\Techgig\CodeChef\CodeChef\obj\Debug\CodeChef.pdb
