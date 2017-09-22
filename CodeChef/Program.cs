@@ -14,8 +14,11 @@ namespace CodeChef
             int T = Convert.ToInt32(Console.ReadLine());
 
             //Solve for CFRTEST
-            Run runner = new CFRTEST();
-            
+            //Run runner = new CFRTEST();
+
+            //Solve for CHEFARRP
+            Run runner = new CHEFARRP();
+
             for (int i = 0; i < T; i++)
             {
                 runner.run();
