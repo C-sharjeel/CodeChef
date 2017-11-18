@@ -1,0 +1,6 @@
+/home/itachi/Documents/Projects/CodeChef/CodeChef/obj/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/itachi/Documents/Projects/CodeChef/CodeChef/bin/Release/CodeChef.exe.config
+/home/itachi/Documents/Projects/CodeChef/CodeChef/bin/Release/CodeChef.pdb
+/home/itachi/Documents/Projects/CodeChef/CodeChef/bin/Release/CodeChef.exe
+/home/itachi/Documents/Projects/CodeChef/CodeChef/obj/Release/CodeChef.exe
+/home/itachi/Documents/Projects/CodeChef/CodeChef/obj/Release/CodeChef.pdb

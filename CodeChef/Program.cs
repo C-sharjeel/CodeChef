@@ -12,13 +12,30 @@ namespace CodeChef
         {
             //T is number of test cases 
             int T = Convert.ToInt32(Console.ReadLine());
-
+			Run runner;
             //Solve for CFRTEST
-            //Run runner = new CFRTEST();
+            //runner = new CFRTEST();
 
             //Solve for CHEFARRP
-            Run runner = new CHEFARRP();
+            //runner = new CHEFARRP();
 
+			//Solve for LECANDY
+			//runner = new LECANDY();
+
+			//Solve for CNOTE
+			//runner = new CNOTE();
+
+			//Solve for SALARY
+			//runner = new SALARY();
+
+			//Solve for CHN15A
+			//runner = new CHN15A();
+
+			//solve for FRGTNLNG
+			//runner = new FRGTNLNG();
+
+			//solve for COPS
+			runner = new COPS();
             for (int i = 0; i < T; i++)
             {
                 runner.run();
